@@ -1,0 +1,8 @@
+,total_pnl,total_pnl,total_pnl,win_rate,trade_count
+,mean,std,sum,mean,mean
+classification,,,,,
+Extreme Fear,52793.59,101262.39,739110.25,0.0,1528.57
+Extreme Greed,23817.29,72827.3,2715171.31,0.0,350.81
+Fear,36891.82,96611.85,3357155.44,0.0,679.53
+Greed,11140.57,62427.96,2150129.27,0.0,260.64
+Neutral,19297.32,37995.21,1292920.68,0.0,562.48
